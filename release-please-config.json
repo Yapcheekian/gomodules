@@ -11,6 +11,9 @@
 		},
 		"mod3": {
 			"component": "mod3"
+		},
+		"mod4": {
+			"component": "mod3"
 		}
 	}
 }
