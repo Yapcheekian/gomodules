@@ -6,7 +6,7 @@
 		"mod1": {
 			"component": "mod1"
 		},
-		"mongokit": {
+		"mongokit/v2": {
 			"component": "mongokit"
 		}
 	}
