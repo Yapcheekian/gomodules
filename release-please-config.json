@@ -12,10 +12,10 @@
 		"mod3": {
 			"component": "mod3"
 		},
-		"mod4": {
+		"mod4/v24": {
 			"component": "mod4"
 		},
-		"mod5": {
+		"mod5/v25": {
 			"component": "mod5"
 		}
 	}
