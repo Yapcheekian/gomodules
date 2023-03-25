@@ -8,6 +8,9 @@
 		},
 		"mod2": {
 			"component": "mod2"
+		},
+		"mod3": {
+			"component": "mod3"
 		}
 	}
 }
