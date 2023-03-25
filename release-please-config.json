@@ -5,6 +5,9 @@
 	"packages": {
 		"mod1": {
 			"component": "mod1"
+		},
+		"mongokit": {
+			"component": "mongokit"
 		}
 	}
 }
