@@ -13,7 +13,10 @@
 			"component": "mod3"
 		},
 		"mod4": {
-			"component": "mod3"
+			"component": "mod4"
+		},
+		"mod5": {
+			"component": "mod5"
 		}
 	}
 }
