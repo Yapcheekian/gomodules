@@ -7,7 +7,7 @@ import (
 )
 
 func New() {
-	fmt.Println("mod5 v25.1.0")
+	fmt.Println("mod5 v25.3.0")
 	id := uuid.New()
 	fmt.Println(id)
 }
