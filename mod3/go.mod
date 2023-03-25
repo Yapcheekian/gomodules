@@ -1,3 +1,3 @@
-module github.com/Yapcheekian/gomodules/mod2
+module github.com/Yapcheekian/gomodules/mod3
 
 go 1.20

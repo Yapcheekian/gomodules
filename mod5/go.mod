@@ -1,4 +1,4 @@
-module github.com/Yapcheekian/gomodules/mod2
+module github.com/Yapcheekian/gomodules/mod5
 
 go 1.20
 
