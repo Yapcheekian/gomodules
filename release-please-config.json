@@ -1,0 +1,13 @@
+{
+	"release-type": "go-yoshi",
+	"include-component-in-tag": true,
+	"tag-separator": "/",
+	"packages": {
+		"mod1": {
+			"component": "mod1"
+		},
+		"mod2": {
+			"component": "mod2"
+		}
+	}
+}
