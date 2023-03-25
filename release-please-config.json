@@ -17,6 +17,9 @@
 		},
 		"mod5/v25": {
 			"component": "mod5"
+		},
+		"mod6/v24": {
+			"component": "mod6"
 		}
 	}
 }
