@@ -8,6 +8,9 @@
 		},
 		"mongokit": {
 			"component": "mongokit"
+		},
+		"pgkit": {
+			"component": "pgkit"
 		}
 	}
 }
