@@ -3,5 +3,5 @@ package pgkit
 import "fmt"
 
 func New() {
-	fmt.Println("pgkit v1.0.0")
+	fmt.Println("pgkit v2.0.0")
 }
